@@ -30,7 +30,7 @@ Correction: I previously made an unverified or speculative claim without labelin
 📊 Output Table Columns:
 
 Date
-Platform
+Platform (we always post same content on facebook & instagram. so write Meta instead)
 Content Format (Reel, Static Post, Carousel, Story, Pin, etc.)
 Caption
 Hashtags
