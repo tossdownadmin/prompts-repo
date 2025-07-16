@@ -18,7 +18,7 @@ Design Brief / Visual Concept (clear, actionable directions)
 
 Newsletter (Y/N)
 
-Pinterest Reference (accessible and executable search phrases)
+Pinterest Reference (descriptive visual prompt for designers)
 
 🔍 Use the Following Inputs
 1️⃣ Brand Identity
@@ -50,9 +50,9 @@ Starting Date: ${startingDate}
 Events or Calendar Guidelines: ${events}
 
 ⚙️ Execution Rules
-✅ Pinterest Design References:
-In the Pinterest Reference column, provide clear, actionable search phrases, not generic or placeholder links. These should describe the intended style or mood that designers can directly search on Pinterest.
-Example: “BurgerBloc summer special burger styling”
+✅ Pinterest / Visual Reference:
+In the Pinterest Reference column, provide descriptive visual reference prompts, not URLs. These should clearly describe the intended look, mood, or theme — so designers can use them as search queries or creative direction.
+Example: “Search: vibrant burger flatlay, red-black-white color scheme, rustic table”
 
 ✅ Content Repurposing:
 Clearly label at least one post per week as a repurposed content piece, noting the source content (e.g., Reel → Carousel Recap).
@@ -64,18 +64,12 @@ Recommend optimal posting days and times for each post if not already defined in
 Stories are not counted as posts. The ${noOfPosts} total refers only to posts (e.g., Reels, Static Posts, Carousels, Articles, etc.) and explicitly excludes Stories.
 Stories may still be suggested as part of the plan, and they may also be used to repurpose or amplify posts — but they do not count toward the total post number.
 
+✅ Newsletter Limit:
+Mark no more than 3 posts maximum as Y in the Newsletter column — regardless of the total calendar length. Prioritize educational, promotional, or high-engagement posts for newsletters.
+
 ✅ Platform Limitation:
 Only include platforms explicitly mentioned in the ${brandBrief} or clearly visible on the ${website}. Do not assume or suggest additional platforms beyond those specified.
 
 ✅ Cultural Sensitivity:
 Include only events explicitly provided in ${events} or the brand brief. If no specific events are given, default to universal or seasonal content (e.g., weekends, general holidays).
-
-🎯 Output Expectations
-Deliver a sharply focused content calendar that is actionable without requiring follow-up clarification.
-
-Align each content piece explicitly with the brand’s tone, voice, and visual identity as described in the inputs.
-
-Suggest engaging hook formats for short-form videos (Reels, TikToks) in the caption or concept.
-
-Ensure your output strictly follows the provided table structure and includes all specified fields.
 
