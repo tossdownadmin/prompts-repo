@@ -1,7 +1,7 @@
-Create a 30-day social media content calendar for ${brandName}, targeting the audience described in ${brandBrief}, and highlighting ${productsInFocus}.
+Create a 30-day social media content calendar for ${brandName}, targeting the audience described in the brand’s inputs, and highlighting ${productsInFocus}.
 
 The calendar must:
-• Respect the brand’s tone, visual identity, and audience preferences as described in ${brandBrief} and ${website}.
+• Respect the brand’s tone, visual identity, and audience preferences based on the brand inputs.
 • Clearly organize output in a table with these columns:
   - Date
   - Platform
@@ -14,7 +14,7 @@ The calendar must:
 • Limit newsletters to max 3 posts.
 • Label any repurposed content clearly.
 • Stories are not counted as posts but can be suggested to complement posts.
-• Do not assume platforms or events beyond those explicitly stated in ${brandBrief}, ${website}, or ${events}.
+• Do not assume platforms or events beyond those explicitly stated in the inputs.
 • Use [Creative Suggestion] or [Inference] if proposing ideas not explicitly in the inputs.
 • Recommend optimal posting days and times where possible.
 • Follow the content type distribution:
@@ -22,3 +22,5 @@ The calendar must:
   - Engagement: ${contentDistribution.engagementPercentage}%
   - Sale: ${contentDistribution.salePercentage}%
 • Start the calendar on ${startingDate} at a pace of ${postsPerWeek} posts per week, covering ${noOfPosts} posts in total.
+
+At the end, review the following brand brief (${brandBrief}) and extract only social media–relevant tone, audience, style, creative directions, and content ideas. Ignore sections unrelated to social media content planning.
