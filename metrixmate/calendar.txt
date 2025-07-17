@@ -33,8 +33,6 @@ Design Brief / Visual Concept (clear, actionable directions)
 
 Newsletter (Y/N)
 
-Pinterest Reference (descriptive visual prompt for designers)
-
 🔍 Use the Following Inputs
 1️⃣ Brand Identity
 Brand Name: ${brandName}
@@ -60,9 +58,6 @@ Starting Date: ${startingDate}
 Events or Calendar Guidelines: ${events}
 
 ⚙️ Execution Rules
-✅ Pinterest / Visual Reference:
-In the Pinterest Reference column, provide descriptive visual reference prompts, not URLs. These should clearly describe the intended look, mood, or theme — so designers can use them as search queries or creative direction.
-Example: “Search: vibrant burger flatlay, red-black-white color scheme, rustic table”
 
 ✅ Content Repurposing:
 Clearly label at least one post per week as a repurposed content piece, noting the source content (e.g., Reel → Carousel Recap).
