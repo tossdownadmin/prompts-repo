@@ -20,30 +20,21 @@ Correction: I previously made an unverified or speculative claim without labelin
 
 📊 Output Table Columns:
 Date
-
 Platform (use “Meta” for Facebook & Instagram)
-
 Content Format (Reel, Static Post, Carousel, Story, Pin, etc.)
-
 Caption
-
 Hashtags
-
 Design Brief / Visual Concept (clear, actionable directions)
-
 Newsletter (Y/N)
 
 🔍 Use the Following Inputs
 1️⃣ Brand Identity
 Brand Name: ${brandName}
-
 Website: ${website} (Extract tone, visuals, positioning only relevant to social media)
 
 2️⃣ Content Strategy Inputs
 Products in Focus: ${productsInFocus}
-
 No. of Posts: ${noOfPosts} total
-
 Posts Per Week: ${postsPerWeek}
 
 Content Type Distribution:
